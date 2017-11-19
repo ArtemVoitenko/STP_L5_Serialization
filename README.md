@@ -1,0 +1,3 @@
+[![Build Status](https://travis-ci.org/ArtemVoitenko/STP_L5_Serialization.svg?branch=master)](https://travis-ci.org/ArtemVoitenko/STP_L5_Serialization)
+[![codecov](https://codecov.io/gh/ArtemVoitenko/STP_L5_Serialization/branch/master/graph/badge.svg)](https://codecov.io/gh/ArtemVoitenko/STP_L5_Serialization)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e5df429aa3cf49188df982c25a21a6c6)](https://www.codacy.com/app/ArtemVoitenko/STP_L5_Serialization?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArtemVoitenko/STP_L5_Serialization&amp;utm_campaign=Badge_Grade)
